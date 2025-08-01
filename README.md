@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** at [Divine IT Limited](https://divineit.net/), focused on building robust and scalable web applications. I enjoy diving into modern frameworks and constantly seek opportunities to learn and experiment with emerging technologies.
+I'm a passionate **Software Engineer**, focused on building robust and scalable web applications. I enjoy diving into modern frameworks and constantly seek opportunities to learn and experiment with emerging technologies.
 
 - 🌱 Currently leveling up my backend & frontend development skills
 - 💻 You'll find me solving problems on platforms like [LeetCode](https://leetcode.com/u/Ar_Anik/)
@@ -55,5 +55,3 @@ I'm a passionate **Software Engineer** at [Divine IT Limited](https://divineit.n
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Anik&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="220" alt="Top Languages"/>
 </div>
-
----
