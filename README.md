@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-✨ I'm a passionate **Software Engineer** at [Divine IT Limited](https://divineit.net/), building robust, scalable web applications.
+I'm a passionate **Software Engineer** at [Divine IT Limited](https://divineit.net/), focused on building robust and scalable web applications. I love working with modern frameworks and am always eager to learn and experiment with new technologies.
 - 🌱 Currently leveling up my backend & frontend development skills
 - 💻 You'll find me solving problems on platforms like [LeetCode](https://leetcode.com/u/Ar_Anik/)
 - 👯 I’m looking to collaborate with any developer 😊
@@ -25,21 +25,6 @@
 ---
 
 ## 🚀 Tech Stack
-
-<p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="48" height="48"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" width="48" height="48" style="background:white; border-radius:6px; padding:3px;"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="48" height="48"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="48" height="48"/>
-  </a>
-</p>
 
 <div align="center">
 
@@ -61,25 +46,6 @@
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="48" style="margin: 0 12px;"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aubdur-rob-anik-a307471a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:anik13331@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-<a href="https://github.com/Ar-Anik">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ar-Anik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Ar-Anik's%20GitHub%20Stats" height="190" alt="GitHub Stats"/>
-</a>
-</div>
 
 ---
 
