@@ -20,16 +20,16 @@ I'm a passionate **Software Engineer**, focused on building robust and scalable 
 - 🌱 Currently leveling up my backend & frontend development skills
 - 💻 You'll find me solving problems on platforms like [LeetCode](https://leetcode.com/u/Ar_Anik/)
 - 👯 I’m looking to collaborate with any developer 😊
-- 🧠 Also known as the "Brainless Man" (it's a joke, I promise! 😄)
+- ⚡ Fun fact: I'm also known as the Brainless Developer
 
 
 ## 🚀 Tech Stack
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> | <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
-|:---:|:---:|:---:|:---:|
-| React | Django | FastAPI | MySQL |
+| <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> | <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/-SQLAlchemy-d71f00?style=for-the-badge&logo=sqlalchemy&logoColor=white" /> |
+|:---:|:---:|:---:|:---:|:---:|
+| React | Django | FastAPI | MySQL | SQLAlchemy |
 
 </div>
 
