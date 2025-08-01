@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=Ar-Anik&color=F7971E&style=flat-square" alt="Profile Views"/>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -23,7 +22,6 @@ I'm a passionate **Software Engineer**, focused on building robust and scalable 
 - 👯 I’m looking to collaborate with any developer 😊
 - 🧠 Also known as the "brainless man" (it's a joke, I promise! 😄)
 
----
 
 ## 🚀 Tech Stack
 
@@ -35,7 +33,6 @@ I'm a passionate **Software Engineer**, focused on building robust and scalable 
 
 </div>
 
----
 
 ## 🌐 Connect with Me
 
@@ -48,7 +45,6 @@ I'm a passionate **Software Engineer**, focused on building robust and scalable 
   </a>
 </p>
 
----
 
 ## 🏆 Most Used Languages
 
