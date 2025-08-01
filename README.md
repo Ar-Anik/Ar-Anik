@@ -20,7 +20,7 @@ I'm a passionate **Software Engineer**, focused on building robust and scalable 
 - 🌱 Currently leveling up my backend & frontend development skills
 - 💻 You'll find me solving problems on platforms like [LeetCode](https://leetcode.com/u/Ar_Anik/)
 - 👯 I’m looking to collaborate with any developer 😊
-- 🧠 Also known as the "brainless man" (it's a joke, I promise! 😄)
+- 🧠 Also known as the "Brainless Man" (it's a joke, I promise! 😄)
 
 
 ## 🚀 Tech Stack
