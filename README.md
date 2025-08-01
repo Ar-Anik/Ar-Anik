@@ -48,6 +48,11 @@ I'm a passionate **Software Engineer**, focused on building robust and scalable 
 
 ## 🏆 Most Used Languages
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,django,fastapi,mysql,html,css,git" height="52"/>
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Anik&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="220" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Anik&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="230" alt="Top Languages"/>
 </div>
+
