@@ -1,7 +1,7 @@
 <!-- Profile README for Ar-Anik -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hi+there%2C+I'm+Ar-Anik!+%F0%9F%91%8B;Software+Engineer+%40+Divine+IT+Limited" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hi+there%2C+I'm+Aubdur+Rob+Anik!+%F0%9F%91%8B;Software+Engineer+%40+Divine+IT+Limited" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -16,7 +16,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** at [Divine IT Limited](https://divineit.net/), focused on building robust and scalable web applications. I love working with modern frameworks and am always eager to learn and experiment with new technologies.
+I'm a passionate **Software Engineer** at [Divine IT Limited](https://divineit.net/), focused on building robust and scalable web applications. I enjoy diving into modern frameworks and constantly seek opportunities to learn and experiment with emerging technologies.
+
 - 🌱 Currently leveling up my backend & frontend development skills
 - 💻 You'll find me solving problems on platforms like [LeetCode](https://leetcode.com/u/Ar_Anik/)
 - 👯 I’m looking to collaborate with any developer 😊
