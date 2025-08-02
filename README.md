@@ -21,7 +21,7 @@ I'm a passionate **Software Engineer**, focused on building robust and scalable 
 - 💻 You'll find me solving problems on platforms like [LeetCode](https://leetcode.com/u/Ar_Anik/)
 - 🌟 Sometimes I share my code on my [Blog](https://aranik43.blogspot.com/)
 - 👯 I’m looking to collaborate with any developer 😊
-- ⚡ Fun fact: I'm also known as the Brainless Developer
+- ⚡ Fun fact: I'm also known as the Half-Dead Developer.
 
 
 ## 🚀 Tech Stack
