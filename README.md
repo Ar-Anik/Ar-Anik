@@ -53,7 +53,4 @@ I'm a passionate **Software Engineer**, focused on building robust and scalable 
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,django,fastapi,mysql,html,css,git" height="52"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Anik&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="230" alt="Top Languages"/>
-</div>
 
