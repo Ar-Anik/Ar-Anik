@@ -47,7 +47,7 @@ I'm a passionate **Software Engineer**, focused on building robust and scalable 
 </p>
 
 
-## 🏆 Most Used Languages
+## 🏆 Most Used Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,django,fastapi,mysql,html,css,git" height="52"/>
